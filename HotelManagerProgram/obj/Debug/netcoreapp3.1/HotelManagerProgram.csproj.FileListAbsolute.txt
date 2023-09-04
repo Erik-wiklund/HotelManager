@@ -1,0 +1,17 @@
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\bin\Debug\netcoreapp3.1\HotelManagerProgram.exe
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\bin\Debug\netcoreapp3.1\HotelManagerProgram.deps.json
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\bin\Debug\netcoreapp3.1\HotelManagerProgram.runtimeconfig.json
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\bin\Debug\netcoreapp3.1\HotelManagerProgram.runtimeconfig.dev.json
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\bin\Debug\netcoreapp3.1\HotelManagerProgram.dll
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\bin\Debug\netcoreapp3.1\HotelManagerProgram.pdb
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\bin\Debug\netcoreapp3.1\HotelManagerClassLib.dll
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\bin\Debug\netcoreapp3.1\HotelManagerClassLib.pdb
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\obj\Debug\netcoreapp3.1\HotelManagerProgram.csproj.AssemblyReference.cache
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\obj\Debug\netcoreapp3.1\HotelManagerProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\obj\Debug\netcoreapp3.1\HotelManagerProgram.AssemblyInfoInputs.cache
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\obj\Debug\netcoreapp3.1\HotelManagerProgram.AssemblyInfo.cs
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\obj\Debug\netcoreapp3.1\HotelManagerProgram.csproj.CoreCompileInputs.cache
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\obj\Debug\netcoreapp3.1\HotelManagerProgram.csproj.CopyComplete
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\obj\Debug\netcoreapp3.1\HotelManagerProgram.dll
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\obj\Debug\netcoreapp3.1\HotelManagerProgram.pdb
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerProgram\obj\Debug\netcoreapp3.1\HotelManagerProgram.genruntimeconfig.cache

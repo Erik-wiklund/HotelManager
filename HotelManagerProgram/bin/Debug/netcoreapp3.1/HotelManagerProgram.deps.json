@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HotelManagerProgram/1.0.0": {
+        "dependencies": {
+          "HotelManagerClassLib": "1.0.0"
+        },
+        "runtime": {
+          "HotelManagerProgram.dll": {}
+        }
+      },
+      "HotelManagerClassLib/1.0.0": {
+        "runtime": {
+          "HotelManagerClassLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HotelManagerProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HotelManagerClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

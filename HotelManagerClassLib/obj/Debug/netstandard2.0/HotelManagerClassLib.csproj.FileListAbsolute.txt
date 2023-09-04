@@ -1,0 +1,10 @@
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerClassLib\bin\Debug\netstandard2.0\HotelManagerClassLib.deps.json
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerClassLib\bin\Debug\netstandard2.0\HotelManagerClassLib.dll
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerClassLib\bin\Debug\netstandard2.0\HotelManagerClassLib.pdb
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerClassLib\obj\Debug\netstandard2.0\HotelManagerClassLib.csproj.AssemblyReference.cache
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerClassLib\obj\Debug\netstandard2.0\HotelManagerClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerClassLib\obj\Debug\netstandard2.0\HotelManagerClassLib.AssemblyInfoInputs.cache
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerClassLib\obj\Debug\netstandard2.0\HotelManagerClassLib.AssemblyInfo.cs
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerClassLib\obj\Debug\netstandard2.0\HotelManagerClassLib.csproj.CoreCompileInputs.cache
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerClassLib\obj\Debug\netstandard2.0\HotelManagerClassLib.dll
+C:\Users\erik_\Downloads\HotelManager-1-main\HotelManager-1-main\HotelManagerClassLib\obj\Debug\netstandard2.0\HotelManagerClassLib.pdb
